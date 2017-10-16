@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	color: gray;
+}
+
+p{
+	text-align: center;
+}
+.fa{
+	font-size: 70px;
+	margin-left: 30px;
+}
+.fa-flag:hover{
+	color: red;
+	font-size: 100px;
+	cursor: pointer;
+}
+.fa-heartbeat:hover{
+	color: red;
+	font-size: 100px;
+	cursor: pointer
+}
+.fa-film:hover{
+	color: red;
+	font-size: 100px;
+	cursor: pointer
+}
